@@ -1,3 +1,5 @@
+
+==此插件正在重新制作==
 # upload-file
 使用JavaScript开发，文件上传插件，最主要的是用于图片上传Using JavaScript development, file upload plugins, the most important is for image uploading
 
